@@ -1,3 +1,1 @@
-Student app
-Jenkinsfile
-fix something
+# SEDO-Regular-Exam-2024-10
